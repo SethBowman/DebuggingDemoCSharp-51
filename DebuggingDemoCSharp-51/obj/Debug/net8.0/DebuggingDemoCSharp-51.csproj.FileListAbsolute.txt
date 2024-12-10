@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\bin\Debug\net8.0\DebuggingDemoCSharp-51.exe
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\bin\Debug\net8.0\DebuggingDemoCSharp-51.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\bin\Debug\net8.0\DebuggingDemoCSharp-51.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\bin\Debug\net8.0\DebuggingDemoCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\bin\Debug\net8.0\DebuggingDemoCSharp-51.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\obj\Debug\net8.0\DebuggingDemoCSharp-51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\obj\Debug\net8.0\DebuggingDemoCSharp-51.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\obj\Debug\net8.0\DebuggingDemoCSharp-51.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\obj\Debug\net8.0\DebuggingDemoCSharp-51.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\obj\Debug\net8.0\DebuggingDemoCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\obj\Debug\net8.0\refint\DebuggingDemoCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\obj\Debug\net8.0\DebuggingDemoCSharp-51.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\obj\Debug\net8.0\DebuggingDemoCSharp-51.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\DebuggingDemoCSharp-51\DebuggingDemoCSharp-51\obj\Debug\net8.0\ref\DebuggingDemoCSharp-51.dll
